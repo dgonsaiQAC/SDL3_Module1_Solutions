@@ -12,7 +12,7 @@ Contained in this repository are the solutions for all exercises within **Module
 
 - [Exercise 4 - **Conditionals**](/SDL3_M1_Exercise04.py)
 
-## Additional Exercises**
+## Additional Exercises
 
 - [Additional Exercise 01 - **Strings**](/Additional_Exercises/SDL3_M1_Additional01.py)
 
